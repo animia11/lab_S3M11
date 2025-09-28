@@ -1,2 +1,3 @@
-# lab_S3M11
-for lab
+IKTS-42
+Maria Anisim
+1 person
